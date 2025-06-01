@@ -1,12 +1,1 @@
-Conversation.csv
-  chatbot dataset.txt
-  chatbot_dataset.csv
-  dialogs.txt
-  human_chat copy.txt
-  human_chat.txt
-  input_texts.txt
-  intents-2.json
-  intents-3.json
-  intents-4.json
-  intents.json
-  label_texts.txt
+Chatbot-Model/Conversation.csv
